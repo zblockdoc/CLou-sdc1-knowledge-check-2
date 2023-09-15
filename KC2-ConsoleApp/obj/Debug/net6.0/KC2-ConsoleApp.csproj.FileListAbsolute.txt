@@ -1,0 +1,14 @@
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\KC2-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\KC2-ConsoleApp.AssemblyInfoInputs.cache
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\KC2-ConsoleApp.AssemblyInfo.cs
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\KC2-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\bin\Debug\net6.0\KC2-ConsoleApp.exe
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\bin\Debug\net6.0\KC2-ConsoleApp.deps.json
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\bin\Debug\net6.0\KC2-ConsoleApp.runtimeconfig.json
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\bin\Debug\net6.0\KC2-ConsoleApp.dll
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\bin\Debug\net6.0\KC2-ConsoleApp.pdb
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\KC2-ConsoleApp.dll
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\refint\KC2-ConsoleApp.dll
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\KC2-ConsoleApp.pdb
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\KC2-ConsoleApp.genruntimeconfig.cache
+C:\isaC\CodeLou\SD01\CLou-SD1-KC2\CLou-sdc1-knowledge-check-2\KC2-ConsoleApp\obj\Debug\net6.0\ref\KC2-ConsoleApp.dll
